@@ -1,1 +1,14 @@
-
+name: Update Resume Gist
+on: push
+jobs:
+  update-resume-gist:
+    runs-on: Windows-latest 
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+    - name: Update Resume Gist
+      uses: exuanbo/actions-deploy-gist@v1
+      with:
+        token: ${{ secrets.GIST_TOKEN }}
+        gist_id: f267b9344f0ddb2b6415b188528b0f48
+        file_path: resume.json
