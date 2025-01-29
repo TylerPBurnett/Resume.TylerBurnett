@@ -1,8 +1,8 @@
 {
   "basics": {
-    "name": "Tyler Cool!",
+    "name": "Tyler Burnett",
     "label": "Nutrition and Health Promotion",
-    "picture": "https://example.com/photo.jpg",
+    "picture": "https://avatars.githubusercontent.com/u/196131774?s=400&u=f5312e5a6bd9d3f923e9a4d4d845c4b9b89f2c1a&v=4",
     "email": "thomas.edison@example.com",
     "phone": "(662) 456-7890",
     "website": "https://links.tylerburnett.com",
@@ -18,23 +18,23 @@
       {
         "network": "LinkedIn",
         "username": "thomasedison",
-        "url": "https://www.linkedin.com/in/thomasedison"
+        "url": "https://www.linkedin.com/in/TylerPBurnett/"
       },
       {
         "network": "Twitter",
-        "username": "realThomasEdison",
-        "url": "https://twitter.com/realThomasEdison"
+        "username": "TylerBurnett",
+        "url": "https://twitter.com/Ty_Trades"
       }
     ]
   },
   "work": [
     {
-      "company": "Edison Electric Light Company",
-      "position": "Founder",
-      "website": "https://edison.com",
-      "startDate": "1878-01-01",
-      "endDate": "1931-10-18",
-      "summary": "Founded the company that brought electric light to households and businesses.",
+      "company": "US Army",
+      "position": "Preventive Medicine Specialist",
+      "website": "https://links.tylerburnett.com",
+      "startDate": "2017-02-01",
+      "endDate": "2025-01-01",
+      "summary": "Ensuring Medical Rediness in the MSNG.",
       "highlights": [
         "Invented the first commercially practical incandescent light bulb.",
         "Developed the electric power distribution system."
