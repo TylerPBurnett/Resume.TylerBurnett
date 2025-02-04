@@ -6,7 +6,7 @@
     "email": "contact.TylerBurnett@Proton.me",
     "phone": "(662) 610-9592",
     "website": "https://links.tylerburnett.com",
-    "summary": "Dedicated professional with a focus on data , nutrition, and health promotion, adept at creating data driven insights. I find innovative solutions to complex challenges in health and beyond.",
+    "summary": "Dedicated professional with a focus on data, nutrition, and health promotion, adept at creating data-driven insights. I find innovative solutions to complex challenges in health and beyond. I have always been deeply fascinated by the intricate workings of the human body and the ways in which we can optimize our health and well-being. My passion for learning drives me to delve into the science of human physiology, seeking innovative methods or 'biohacks' to enhance our quality of life. This pursuit is not just academic; it's personal, as I believe in empowering individuals to live their best lives by understanding and nurturing the vessel we inhabit.\n\nThrough my studies, I aim to uncover and share knowledge that allows us to take proactive steps towards health, vitality, and longevity, making the journey of self-care both enlightening and empowering.",
     "location": {
       "address": "Starkville",
       "postalCode": "39759",
@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "thomasedison",
+        "username": "TylerPBurnett",
         "url": "https://www.linkedin.com/in/TylerPBurnett/"
       },
       {
@@ -30,26 +30,29 @@
   "work": [
     {
       "company": "US Army",
-      "position": "Preventive Medicine Specialist",
+      "position": "Preventive Medicine Specialist, U.S. Army",
       "website": "https://links.tylerburnett.com",
       "startDate": "2017-02-01",
       "endDate": "2025-01-01",
       "summary": "Ensuring Medical Rediness in the MSNG.",
       "highlights": [
-        "Invented the first commercially practical incandescent light bulb.",
-        "Developed the electric power distribution system."
+        "Instrumental in the Army Health Promotion Program, designing and implementing wellness initiatives that resulted in a 25% increase in physical fitness test pass rates among soldiers, directly impacting unit morale and combat effectiveness.",
+        "Ensured medical rediness but completing 11,000 physical health exams for the MSNG.",
+        "Provided medical support for 3,000 soldiers during the COVID-19 pandemic, including testing, contact tracing, and vaccination administration.",
+        "Effefctively taught classes on field Sanitation, preventive medicine, and nutrition to over 50 soldiers, ensuring they were prepared for field training and deployment."
       ]
     },
     {
       "company": "General Nutrition Company",
-      "position": "Sales Representative",
+      "position": "Sales Representative, GNC",
       "website": "https://gnc.com",
       "startDate": "2016-01-01",
       "endDate": "2018-2-18",
       "summary": "Served and educated customers on health and wellness products.",
       "highlights": [
         "Evaluated uniqued nutrient and energy requirements for each patient based on BMI, lifestyle and individual medical issues.",
-        "Provided guidance on healthy eating habits and the use of supplements."
+        "Provided guidance on healthy eating habits and the use of supplements.",
+        "Achieved top sales performance by tailoring personalized supplement regimens, increasing customer satisfaction and boosting repeat business through expert nutritional guidance and product knowledge at GNC."
       ]
     }
   ],
@@ -78,7 +81,8 @@
       "courses": [
         "Biochemistry",
         "Microbiology",
-        "Data Analysis"
+        "Data Analysis",
+        "MicroNutrients"
       ]
     }
   ],
@@ -121,14 +125,30 @@
       "name": "Research and Development",
       "keywords": [
         "Innovations",
-        "Experimentation"
+        "Experimentation",
+        "Personal Development"
+      ]
+    },
+    {
+      "name": "Health and Wellness",
+      "keywords": [
+        "Nutrition",
+        "Exercise",
+        "BioHacking"
+      ]
+    },
+    {
+      "name": "Pickleball",
+      "keywords": [
+        "Competitive Play",
+        "Outdoor Sports"
       ]
     }
   ],
   "references": [
     {
-      "name": "Dr. John Doe",
-      "reference": "Thomas Edison was a brilliant inventor and a visionary businessman. His work has had a profound impact on the modern world."
+      "name": "Dr. Mandy Conrad at Mississippi State University",
+      "reference": "A student who has truly stood out in my class not just for their academic prowess but for their ability to bring joy and laughter into the learning environment."
     }
   ]
 }
